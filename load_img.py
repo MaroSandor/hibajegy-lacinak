@@ -2,7 +2,7 @@ from PyQt6.QtGui import QPixmap
 from PyQt6.QtCore import Qt
 
 
-class logo_iamge:
+class logo_image:
     _pixmap = None
 
     @classmethod
