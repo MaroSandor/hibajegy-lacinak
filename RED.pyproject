@@ -1,0 +1,10 @@
+{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "load_excel.py",
+        "responsive_layout.py",
+        "selected_data.py",
+        "load_img.py"
+    ]
+}
